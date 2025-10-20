@@ -226,8 +226,8 @@
 # Should be Gemini API in Vertex AI
 \b[Vv]ertex\s[Aa][Ii]\s[Gg]emini\s[Aa][Pp][Ii]\b
 
-# Should be Agentspace
-\b(?!Agentspace\b)[Aa]gent\s?[Ss]pace?\b
+# Should be Gemini Enterprise
+[Aa]gent\s?[Ss]pace
 
 # Should be Imagen
 \simagen\s\w
@@ -285,9 +285,6 @@
 
 # Should be TPU or TPUs
 \btpus?\b
-
-# Should be GKE
-\sgke\s
 
 # Should be GCS
 \sgcs\s
