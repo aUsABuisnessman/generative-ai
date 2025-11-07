@@ -173,6 +173,7 @@ catus
 caudatus
 caxis
 cbp
+ccc
 cce
 cctv
 cdiv
@@ -315,6 +316,7 @@ Doogler
 dotprompt
 Downscale
 dpi
+dpo
 DPO
 draig
 Dreesen
@@ -343,6 +345,7 @@ Dzor
 ecommerce
 EDB
 Edunov
+eee
 EHR
 EHsc
 EIC
@@ -382,8 +385,10 @@ errlog
 erty
 ESG
 Esin
+ESPP
 ESRB
 etf
+ETFs
 etils
 euchlora
 eula
@@ -503,6 +508,7 @@ giallo
 Giallo
 Giancarlo
 gidiyor
+giftable
 ginnala
 Gisting
 github
@@ -599,6 +605,7 @@ HVDC
 hwnd
 hypercorn
 Hyperdisk
+HYSA
 HZN
 iap
 iban
@@ -643,12 +650,15 @@ iphoneos
 ipycanvas
 ipykernel
 ipynb
+ipywebrtc
 IRAs
 isa
 itable
 itables
 ITDMs
 iterrows
+itl
+ITL
 ivf
 IVF
 ivfflat
@@ -1364,6 +1374,7 @@ tion
 titlebar
 TLDR
 tobytes
+tok
 TOKENLIST
 tomentosa
 Tongsheng
@@ -1373,6 +1384,8 @@ toolu
 Topolino
 toself
 toset
+tpot
+TPOT
 TPU
 TPUs
 tqdm
@@ -1394,6 +1407,7 @@ TSNE
 tsv
 ttext
 TTFB
+ttft
 TTFT
 TTH
 tts
