@@ -22,6 +22,7 @@ afrom
 Afshaan
 AFX
 agains
+agentcard
 agentic
 agg
 AGG
@@ -125,6 +126,8 @@ bayes
 bbc
 bbq
 beir
+Bengaluru
+BENGALURU
 bennett
 Benno
 bert
@@ -150,6 +153,7 @@ BITCODE
 bitcoin
 Bitcoin
 blogs
+BLR
 bluesky
 bml
 bnb
@@ -215,6 +219,7 @@ cer
 cfbundle
 chatbots
 CHECKOV
+CHENNAI
 chipset
 chipsets
 Chocolat
@@ -530,6 +535,7 @@ Fudd
 fulltext
 fullurl
 functiona
+Fushimi
 futur
 Gabeira
 Gacrux
@@ -570,6 +576,8 @@ getdata
 getexif
 getparent
 getpid
+geval
+GFD
 gfile
 GFile
 Gfm
@@ -593,6 +601,7 @@ gmaps
 Gmb
 GmbH
 gms
+gmtime
 GObject
 Godzilla
 goldmine
@@ -733,8 +742,10 @@ INFOPLIST
 informati
 inpaint
 inpainted
+inr
 INR
 IOMGR
+ionate
 Iosif
 iostream
 ipd
@@ -784,6 +795,7 @@ Jolyon
 Jostar
 JPY
 jsemer
+jsonable
 jsonify
 jsonlines
 jsonpath
@@ -793,13 +805,16 @@ jupyter
 jvm
 Kaelen
 kaggle
+Kaku
 Kalai
 Kalamang
+kamada
 Kamradt
 Kanagawa
 Katsura
 Kaufmanns
 Kawagoe
+kawai
 kde
 Keanu
 kendall
@@ -849,10 +864,12 @@ landuse
 langgraph
 Laomedeia
 latte
+lbl
 LCEL
 LEBRON
 lecie
 lego
+lenght
 lenzing
 Levaquin
 levelized
@@ -1348,6 +1365,7 @@ rubra
 rubrum
 Ruchika
 runjdwp
+RUnlock
 RUNPATH
 Rupjit
 RVL
@@ -1486,6 +1504,8 @@ suptitle
 Surampudi
 survei
 Suzaka
+sva
+SVA
 svh
 svm
 Sweetgum
@@ -1533,7 +1553,6 @@ TGI
 tgz
 Thallam
 thelook
-thér
 THH
 THHH
 thi
@@ -1612,6 +1631,7 @@ und
 undst
 unigram
 Unimicron
+unmarshal
 unrtf
 unsloth
 Unsloth
